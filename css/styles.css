@@ -1,0 +1,39 @@
+/** site styles **/
+
+body{
+  padding: 0;
+  margin: auto;
+  font-family: Trebuchet MS,Helvetica,sans-serif;
+  font-size: 0.9em;
+  color: #333333;
+}
+
+a {
+  color: #0000FF
+}
+
+h1 {
+    text-align: center
+}
+
+ul {
+    padding-left: 0px;
+}
+li {
+    list-style: none;
+    padding-top: 15px;
+}
+
+/**
+ * Icons
+ */
+.icon svg {
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    vertical-align: middle;
+}
+
+path {
+    fill: #000000;
+}
