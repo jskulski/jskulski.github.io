@@ -37,3 +37,7 @@ li {
 path {
     fill: #000000;
 }
+
+.v-align {
+    vertical-align: middle;
+}
