@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /mom/
+Disallow: /mom
+Allow: /
