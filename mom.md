@@ -36,7 +36,7 @@ section {
     max-width: 600px;
     z-index: 9;
 </style>
-<script src="node_modules/confetti-js/dist/index.min.js"></script>
+
 <script>
 'use strict';
 
@@ -264,7 +264,7 @@ function domReady(fn) {
   }
 }
 domReady(function() { 
-    var confetti = new ConfettiGenerator({});
+    var confetti = new ConfettiGenerator({clock: 5, max: 200});
     confetti.render();
     });
 
