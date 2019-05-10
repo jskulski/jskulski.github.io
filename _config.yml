@@ -12,3 +12,5 @@ devto_username: jskulski
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
