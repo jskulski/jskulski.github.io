@@ -281,7 +281,7 @@ Happy Mother's Day!
 Thinking of you, and can't wait to see you next. I love you, you've done so much for me and us and our family. I am so deeply grateful.
 </p>
 <p>
-I found this poem last month. If you could do me a gift(!) this Mother's Day, (</em>maybe after a good meal</em>), listen to this poem.
+I found this poem last month. If you could do me a gift(!) this Mother's Day, (<em>maybe after a good meal</em>), listen to this poem.
 </p>
 <hr>
 <p></p>
